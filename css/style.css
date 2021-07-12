@@ -1,0 +1,9 @@
+@import 'geral.css';
+:root {
+    --background: #674BAF;
+    --hover: #E882E8;
+    --fontetitulo: 'Poppins', sans-serif;
+    /* 400,600 */
+    --fontePadrao: 'Open Sans', sans-serif;
+    /* 400 */
+}
